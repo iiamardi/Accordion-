@@ -1,4 +1,3 @@
-# React + Vite
 
 ## Live Demo
 
